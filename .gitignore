@@ -1,8 +1,8 @@
 node_modules/
 
 # Ignore all text files
-*.env
+.env
 
-/artifacts
+/artifacts/
 
 z*
